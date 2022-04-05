@@ -30,6 +30,8 @@
     "url": "git+https://github.com/larryhudson/<REPLACE THIS!>.git"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.0"
+    "@11ty/eleventy": "^1.0.0",
+    "dayjs": "^1.11.0",
+    "eleventy-plugin-mjml": "^1.0.0"
   }
 }

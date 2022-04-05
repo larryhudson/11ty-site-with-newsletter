@@ -2,7 +2,7 @@
 
 This is my template for creating Eleventy sites.
 
-Demo site hosted on Netlify: [update-this-url.netlify.app](https://update-this-url.netlify.app)
+Demo site hosted on Netlify: [11ty-site-with-newsletter.netlify.app](https://11ty-site-with-newsletter.netlify.app)
 
 ## What this does
 

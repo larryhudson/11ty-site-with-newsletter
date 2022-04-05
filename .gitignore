@@ -3,3 +3,5 @@ node_modules
 package-lock.json
 _site
 test_output
+# Local Netlify folder
+.netlify
